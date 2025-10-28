@@ -200,4 +200,5 @@ creditLabel.TextColor3 = Color3.fromRGB(255, 255, 255)
 creditLabel.BackgroundTransparency = 1
 creditLabel.Font = Enum.Font.GothamBold
 creditLabel.TextSize = 14
+
 creditLabel.TextXAlignment = Enum.TextXAlignment.Center
