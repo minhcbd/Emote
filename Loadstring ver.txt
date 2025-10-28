@@ -1,1 +1,11 @@
+--[[
+_________                                ____  __.         
+\_   ___ \    ____     ____      ____   |    |/ _| _____   
+/    \  \/   /  _ \   /    \    / ___\  |      <   \__  \  
+\     \____ (  <_> ) |   |  \  / /_/  > |    |  \   / __ \_
+ \______  /  \____/  |___|  /  \___  /  |____|__ \ (____  /
+        \/                \/  /_____/           \/      \/ 
+]]
 loadstring(game:HttpGet('https://raw.githubusercontent.com/minhcbd/Emote/refs/heads/main/ExclusiveEmoteForsaken.luau'))()
+
+-- Just click "Copy raw file". Lmao
