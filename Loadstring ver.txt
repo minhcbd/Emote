@@ -9,3 +9,4 @@ _________                                ____  __.
 loadstring(game:HttpGet('https://raw.githubusercontent.com/minhcbd/Emote/refs/heads/main/ExclusiveEmoteForsaken.luau'))()
 
 -- Just click "Copy raw file". Lmao
+-- I think this script will be able to run in any game.
