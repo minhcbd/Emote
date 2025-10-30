@@ -6,10 +6,9 @@ _________                                ____  __.
  \______  /  \____/  |___|  /  \___  /  |____|__ \ (____  /
         \/                \/  /_____/           \/      \/ 
 ]]
-loadstring(game:HttpGet('https://raw.githubusercontent.com/minhcbd/Emote/refs/heads/main/ExclusiveEmoteForsaken.luau'))()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/minhcbd/Emote/refs/heads/main/HakariDance.luau'))()
 
---[[Just click "Copy raw file". Lmao
+--[[ Just click "Copy raw file". Lmao
 + I think this script will be able to run in any game.
-+ alpha ver: loadstring(game:HttpGet('https://raw.githubusercontent.com/minhcbd/Emote/refs/heads/main/alpha%20ver.txt'))()
 ]]
 
